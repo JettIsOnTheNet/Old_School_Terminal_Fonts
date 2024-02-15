@@ -1,4 +1,4 @@
-![Old School Terminal Fonts](old_school_terminal_fonts.webp)
+![Old School Terminal Fonts](images/old_school_terminal_fonts.webp)
 
 ### Greetings Professor Falken.
 Admit it. You want cool a$$ terminal and Visual Studio Code fonts that look 1990s fresh, but everything you found does not have ligatures or proper encoding. They worked great in the 90s, but look like hot ass garbage when it comes to living in the future.
