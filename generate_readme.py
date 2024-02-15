@@ -39,7 +39,7 @@ def generate_preview_images(patched_dir_str, previews_dir_str, ttf_files_lst):
 
         fb.save(os.path.join(previews_dir_str, ttf_file + '.png'))
 
-def generate_readme(patched_dir_str, previews_dir_str, ttf_files_lst, header_file_str, readme_file_str):
+def generate_readme(previews_dir_str, ttf_files_lst, header_file_str, readme_file_str):
 
     header_file = open(header_file_str, 'r')
     header_body_str = header_file.read()
@@ -56,5 +56,5 @@ def generate_readme(patched_dir_str, previews_dir_str, ttf_files_lst, header_fil
 if __name__ == '__main__':
     ttf_files_lst = [f for f in os.listdir(patched_dir_str) if f.endswith('.ttf')]
     generate_preview_images(patched_dir_str, previews_dir_str, ttf_files_lst)
-    generate_readme(patched_dir_str, previews_dir_str, ttf_files_lst, header_file_str, readme_file_str)
+    generate_readme(previews_dir_str, ttf_files_lst, header_file_str, readme_file_str)
 
