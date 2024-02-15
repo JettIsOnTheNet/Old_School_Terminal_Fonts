@@ -6,7 +6,7 @@ Admit it. You want cool a$$ terminal and Visual Studio Code fonts that look 1990
 ### Better change your name to Werner Brandes, cause your passport is right here.
 With these fonts, you will slay so hard WOPR will be sliding into your DMs at 2am to finish the game. All your coworkers will be calling you Mr. Anderson. Pair these bad be0tches with [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) and any potential mate you meet at the coffee shop won't be even be able to handle your 31337 Gibson h4x0r 5k1LLz.
 
-They work great in nvim, so when someone asks you what you're doing give em a dash of the ol' Johnny Mneumonic rizz:
+They work great in nvim, so when someone asks you what you're doing give em a dash of the rizz like Johnny:
 
 ![I can carry nearly 80 gigs of data in my head](images/johnny.jpg)
 
