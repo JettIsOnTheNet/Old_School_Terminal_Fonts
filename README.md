@@ -1,4 +1,4 @@
-![Old School Terminal Fonts](images/old_school_terminal_fonts.webp)
+![Old School Terminal Fonts](/images/old_school_terminal_fonts.webp)
 
 ### Greetings Professor Falken.
 Admit it. You want cool a$$ terminal and Visual Studio Code fonts that look 1990s fresh, but everything you found does not have ligatures or proper encoding. They worked great in the 90s, but look like hot ass garbage when it comes to living in the future.
@@ -12,7 +12,7 @@ They work great in nvim, so when someone asks you what you're doing just tell em
 
 ## Originally from
 
-This collection originally provided by [int10h](https://int10h.org/oldschool-pc-fonts). These fonts have been fully patched with ligatures from Nerd Fonts so they work in wezTerm, Kitty, iTerm, VIM, VSCode, Emacs, Zed or whatever your poison.
+This collection originally provided by [int10h](https://int10h.org/oldschool-pc-fonts)/[viler-int10h Github](https://github.com/viler-int10h). These fonts have been fully patched with ligatures from Nerd Fonts so they work in wezTerm, Kitty, iTerm, VIM, VSCode, Emacs, Zed or whatever your poison.
 
 ## Get fonts
 Click any font below to download it, or clone this repo.
@@ -26,7 +26,6 @@ Close this repo. Download the fonts zip file from [int10h](https://int10h.org/ol
 If you would like to generate preview images or the README.md, create a conda environment and use the provided requirements.txt with pip. Make any alterations to HEADER.MD, then run generate_readme.py.
 
 ---
-
 
 ### [OSTF_Ac437Trident8x11.ttf](previews/OSTF_Ac437Trident8x11.ttf)
 ![OSTF_Ac437Trident8x11.ttf](previews/OSTF_Ac437Trident8x11.ttf.png)

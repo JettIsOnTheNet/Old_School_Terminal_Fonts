@@ -12,7 +12,7 @@ They work great in nvim, so when someone asks you what you're doing just tell em
 
 ## Originally from
 
-This collection originally provided by [int10h](https://int10h.org/oldschool-pc-fonts). These fonts have been fully patched with ligatures from Nerd Fonts so they work in wezTerm, Kitty, iTerm, VIM, VSCode, Emacs, Zed or whatever your poison.
+This collection originally provided by [int10h](https://int10h.org/oldschool-pc-fonts)/[viler-int10h Github](https://github.com/viler-int10h). These fonts have been fully patched with ligatures from Nerd Fonts so they work in wezTerm, Kitty, iTerm, VIM, VSCode, Emacs, Zed or whatever your poison.
 
 ## Get fonts
 Click any font below to download it, or clone this repo.
