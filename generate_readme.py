@@ -1,5 +1,5 @@
-from fontpreview import FontBanner
 import os
+from fontpreview import FontBanner
 
 patched_dir_str = 'patched'
 previews_dir_str = 'previews'
@@ -41,7 +41,6 @@ def generate_preview_images(patched_dir_str, previews_dir_str, ttf_files_lst):
 
 def generate_readme(patched_dir_str, previews_dir_str, ttf_files_lst, header_file_str, readme_file_str):
 
-    # this generates the markdown for the readme file
     header_file = open(header_file_str, 'r')
     header_body_str = header_file.read()
     header_file.close()
@@ -51,7 +50,6 @@ def generate_readme(patched_dir_str, previews_dir_str, ttf_files_lst, header_fil
     for ttf_file in ttf_files_lst:
         readme_body += '### [' + ttf_file +'](' + previews_dir_str + '/' + ttf_file + ')\n![' + ttf_file + '](' + previews_dir_str + '/' + ttf_file + '.png)\n'
     
-    # write the readme file
     readme_file = open(readme_file_str, 'w')
     readme_file.write(header_body_str + readme_body)
 
